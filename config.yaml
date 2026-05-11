@@ -1,18 +1,17 @@
 # 研究领域关键词（用于LLM分类）
+# 研究领域关键词（用于LLM分类）
 keywords:
-  - "Large Language Models"
-  - "Natural Language Processing"
-  - "Vision Language Models"
-  - "Diffusion Models"
-  - "Multimodal"
-  - "Image Generation"
-  - "Video Generation"
-  - "Agent"
-  - "Distributed Computing"
-  - "Operating Systems"
-  - "Information Retrieval"
-  - "Computer Vision"
-  - "Machine Learning"
+  - "Skyrmions"
+  - "Magnetic Skyrmions"
+  - "Optical Skyrmions"
+  - "Topological Physics"
+  - "Topological Photonics"
+  - "Metamaterials"
+  - "DMI Interaction"
+  - "Spintronics"
+  - "Condensed Matter Physics"
+  - "Theoretical Physics"
+
 
 # ArXiv API配置
 arxiv:
