@@ -18,15 +18,13 @@ arxiv:
   max_results: 20
   base_url: "http://export.arxiv.org/api/query"
   categories:
-    - "cs.CV"
-    - "cs.CL"
-    - "cs.AI"
-    - "cs.LG"
-    - "cs.MM"
-    - "cs.DC"
-    - "cs.OS"
-    - "cs.IR"
-    - "cs.MA"
+    - "physics.optics"
+    - "cond-mat.mtrl-sci"
+    - "physics.app-phys"
+    - "cond-mat.other"
+
+
+
 
 # LLM配置
 llm:
